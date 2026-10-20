@@ -1,0 +1,15 @@
+Accuracy: 0.976
+
+Confusion Matrix:
+[[111   9]
+ [ 15 865]]
+
+Report:
+              precision    recall  f1-score   support
+
+   OFDMA (0)       0.88      0.93      0.90       120
+    NOMA (1)       0.99      0.98      0.99       880
+
+    accuracy                           0.98      1000
+   macro avg       0.94      0.95      0.94      1000
+weighted avg       0.98      0.98      0.98      1000
