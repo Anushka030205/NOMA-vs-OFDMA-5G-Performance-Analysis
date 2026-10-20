@@ -131,10 +131,8 @@ The Random Forest classifier takes four features as input:
 
 ## Author
 
-**Anushka Vishal Chandergi** — 23BEC0157  
-B.Tech Electronics and Communication Engineering  
-VIT Vellore — School of Electronics Engineering
+**Anushka Vishal Chandergi**
 
 ## License
 
-This project is for academic/educational purposes as part of the Wireless and Mobile Communication course at VIT Vellore.
+This project is for academic/educational purposes as part of the Wireless and Mobile Communication course.
